@@ -1,7 +1,0 @@
-AWS_ACCESS_KEY = "AKIA2NOPASQT5L36KN5N"
-AWS_SECRET_KEY = "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"
-AWS_REGION = "ap-south-a"
-vpc_cidr_block = "10.0.0.0/16"
-subnet_cidr_block = "10.0.40.0/24"
-environment = "devolopment"
-sub_environment = "dev_subnet"
