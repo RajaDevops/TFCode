@@ -2,3 +2,7 @@
 .terraform/*
 *.tfstate.backup
 *.tfvars
+AWS_EC2/*.tfstate
+AWS_EC2/.terraform/*
+AWS_EC2/*.tfstate.backup
+AWS_EC2/*.tfvars
